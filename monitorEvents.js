@@ -1,0 +1,1 @@
+monitorEvents(document.body, 'mouse')
